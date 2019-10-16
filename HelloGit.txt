@@ -1,8 +1,8 @@
 //This is my complete java application file....Hello Git!!!
 
 class HelloGit{
-void MyMethod(){
-sysout("My Method");
+tatic string MyMethod(){
+return "My Method";
 }
 public static void main(String args[]){
 	MyMethod();
