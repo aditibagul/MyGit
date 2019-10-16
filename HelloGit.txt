@@ -5,7 +5,7 @@ void MyMethod(){
 sysout("My Method");
 }
 public static void main(String args[]){
-
+	MyMethod();
 	system.out.println("This will print....***Welcome to Git!!!***");
 }
 
